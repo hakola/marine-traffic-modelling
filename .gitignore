@@ -1,0 +1,12 @@
+notebooks/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
+*.csv
+notebooks/*.ipynb
+.idea/*
+pygradu/.idea/*
+pygradu/__pycache__/*
+old_data/*
+*.xlsx
+new_notebooks/*
+pictures/*
+data/shapes/*
