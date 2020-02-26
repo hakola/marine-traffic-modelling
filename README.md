@@ -13,7 +13,7 @@ Prediction of vessel routes, speed, traffic and ETA using grid-based methods and
 * Method for calculating voyages out of AIS data (see EXTRA 1. Voyage Mapping)
 * Method for extracting mooring areas from AIS data (see EXTRA 3. Extract ports from observation data)
 
-####Abstract:
+#### Abstract:
 > Icebreaking activity and seasonal ice propose challenges for marine traffic prediction in the Baltic Sea. Traffic prediction is a vital part in the planning of icebreaking activities. However, the prediction is still mostly manual task. To combat this, the aim of this thesis is to examine factors influencing marine traffic modelling in ice-covered waters and propose a novel A*-based method for modelling traffic in ice. The current state of the marine traffic modelling and factors affecting vessel movement are concluded by examining the literature and historical vessel tracks.
 ><br/><br/>
 >To summarize the literature review, the field of traffic modelling research is growing and shows great promise. However, the biggest challenges are evaluation of results and the lack of publicly available datasets. Moreover, the current approaches to model vessel movement in ice show promise but they fail to capture how icebreaking activity influences vessel routes.
