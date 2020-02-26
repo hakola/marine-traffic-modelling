@@ -1,5 +1,5 @@
 # Modelling marine traffic in the ice-covered Baltic Sea
-Prediction of vessel routes, speed, traffic and ETA using grid-based methods and shortest path algorithm. Done in part of a Master's thesis work. 
+Prediction of vessel routes, speed, traffic and ETA using grid-based methods and shortest path algorithm. Done as a part of a Master's thesis work. 
 
 **_Summer (red) and winter (blue) vessel tracks in the Baltic Sea:_**
 ![Summer and winter AIS tracks](https://raw.githubusercontent.com/hakola/marine-traffic-modelling/master/figs/balticsea_ais.png)
