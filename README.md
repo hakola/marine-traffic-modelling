@@ -24,12 +24,12 @@ Prediction of vessel routes, speed, traffic and ETA using grid-based methods and
 
 
 ### Approach
-* Sea model
-* Manoeuvrability model
-* Route model
-* Speed model
-* Transition probability
-* A* shortest path algorithm for route prediction
+* Sea model (Notebooks 1-2)
+* Manoeuvrability model (Visualized in Notebook 2)
+* Route model (Notebook 4)
+* Speed model (Notebook 6)
+* Transition probability (Notebook 5)
+* A* shortest path algorithm for route prediction (Notebooks 7-8 and pygradu/shortest_path.py)
 
 **_Winter route prediction example:_**
 ![Winter route prediction example](https://raw.githubusercontent.com/hakola/marine-traffic-modelling/master/figs/winter_route_prediction_example.png)
