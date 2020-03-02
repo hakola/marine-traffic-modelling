@@ -6,9 +6,9 @@ Prediction of vessel routes, speed, traffic and ETA using grid-based methods and
 
 ### Highlights
 * Notebooks 1-6 will guide how the models are created
-* AIS observation and dirways from 2017-19 (data/datasets.zip).
-    *  Training set containing 14185046 AIS observations from summer and fall of 2017-18
-    *  Summer and winter validation sets containing 120876 observations from 2019
+* AIS observation and dirways from 2017-19 (data/datasets.zip & http://ieee-dataport.org/2099).
+    *  Training set containing 14 million AIS observations from the summer and fall of 2017-18
+    *  Summer and winter validation sets containing 120 thousand observations from 380 voyages
     *  More data such as port locations and sea areas.   
 * Method for calculating voyages out of AIS data (see EXTRA 1. Voyage Mapping)
 * Method for extracting mooring areas from AIS data (see EXTRA 3. Extract ports from observation data)
