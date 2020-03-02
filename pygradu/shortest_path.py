@@ -185,6 +185,7 @@ def pythagoras(x,y):
     return math.sqrt(((x.coords[0] - y.coords[0]) ** 2) + ((x.coords[1] - y.coords[1]) ** 2))
 
 
+# TODO: Calculate timestamps for each node instead of adding the start time into them
 def retrace_route(grid, current_node, start_latlon, end_latlon, mmsi, voyage, start_time):
     path = []
     current = current_node
